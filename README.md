@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This repository has moved!**<br/>
+> You can contribute or find up-to-date content at https://git.auxolotl.org/auxolotl/security
+
 # Auxolotl Security Committee
 
 <a href="https://forum.aux.computer/c/committees/security-committee/26">
